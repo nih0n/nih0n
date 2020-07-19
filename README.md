@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week #29 : July 13 - 18
-
-
+C#          1 hr 32 mins        █████████████████████░░░░   86.01 % 
+Markdown    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+JSON        6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+YAML        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 <!--END_SECTION:waka-->
