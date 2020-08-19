@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Blazor and GraphQL
+- 🌱 I’m currently learning GraphQL
 - 💬 Ask me about .NET
 
 ### Languages and Tools
