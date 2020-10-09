@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning GraphQL
 - 💬 Ask me about .NET
+- 🕉️ Mantra: Just let me be alone, I don't care if you miss me 💔
 
 ### Languages and Tools
 
