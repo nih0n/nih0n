@@ -14,7 +14,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007ACC)
 ![Node.js](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933)
-![NestJS](https://img.shields.io/badge/-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=E0234E)\
+![NestJS](https://img.shields.io/badge/-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=E0234E)
+![React](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)\
 ![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![Postman](https://img.shields.io/badge/-Postman-informational?style=flat&logo=postman&logoColor=white&color=FF6C37)
 ![Yarn](https://img.shields.io/badge/-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=2C8EBB)
