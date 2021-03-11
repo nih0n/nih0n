@@ -19,6 +19,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-C#      2 hrs           ████████████████████████▓   99.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
