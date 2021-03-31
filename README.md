@@ -12,7 +12,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007ACC)
 ![Node.js](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933)\
 ![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
-![Postman](https://img.shields.io/badge/-Postman-informational?style=flat&logo=postman&logoColor=white&color=FF6C37)
 ![Yarn](https://img.shields.io/badge/-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=2C8EBB)
 
 ### What i'm doing
