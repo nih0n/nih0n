@@ -11,11 +11,3 @@
 ![C#](https://img.shields.io/badge/-C%23-informational?style=flat&logo=.NET&logoColor=white&color=512BD4)
 ![F#](https://img.shields.io/badge/-F%23-informational?style=flat&logo=.NET&logoColor=white&color=512BD4)\
 ![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
-
-### What i'm doing
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
